@@ -1,1 +1,10 @@
-Banks manually track loan applications, approvals, and payments, causing delays and errors.
+PROBLEM :- Banks manually track loan applications, approvals, and payments, causing delays and errors.
+SOLUTION :- 
+- Salesforce-based system that manages:
+   1. Loan Applications
+   2. Customer Records
+   3. Payment Tracking
+   4. Approval Workflow
+   5. EMI Calculation Automation
+   6. Security & Role Hierarchy
+   7. Dashboards & Reports
